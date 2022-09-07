@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+We are Sufio.
+
+![](https://sufio.com/content/media/images/sufio-team-meeting.original.jpg)
+
+![](https://sufio.com/content/media/images/sufio-teams-mascot-minaj.original.jpg)
+
+![](https://sufio.com/content/media/images/sufio-team-working.original.jpg)
+
+![Playing table tennis after lunch](https://sufio.com/content/media/images/sufio-team-playing-table-tennis.original.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
